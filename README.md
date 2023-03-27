@@ -1,2 +1,2 @@
-# RfptDevice
+# rfptDevice
 
